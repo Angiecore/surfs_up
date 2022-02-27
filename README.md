@@ -4,7 +4,7 @@
 
 In module 9, Advanced Data Storage and Retrieval, we executed Python code in a Jupyter notebook. Also, new tools were incorporated such as SQLite, SQLAlchemy, and Flask. 
 
-![image](https://user-images.githubusercontent.com/95327338/155862902-28279517-4aa9-4356-8695-07c5051ad552.png)
+![image](https://user-images.githubusercontent.com/95327338/155862944-528c4699-b50c-4b28-900c-1157e7a95ec1.png)
 
 The purpose of this project is to analyze for investors the weather dataset in Oahu, Hawaii in order to make a decision whether to open Surf n’ Shake shop. Which will serve surfboards and ice cream to locals and tourists.
 
